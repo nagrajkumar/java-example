@@ -30,7 +30,7 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-<!-- Demo on Github webhooks-->
+         
     <build>
         <plugins>
             <plugin>
